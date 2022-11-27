@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Math Apps</string>
+
+    <string-array name="aritmatika_operator">
+
+        <item>+</item>
+        <item>-</item>
+        <item>x</item>
+        <item>:</item>
+
+    </string-array>
+</resources>

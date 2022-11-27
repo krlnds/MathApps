@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">@color/matcha3</color>
+    <color name="purple_500">@color/matcha2</color>
+    <color name="purple_700">@color/matcha1</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="matcha4">#D2E1C8</color>
+    <color name="matcha">#CEE5D0</color>
+    <color name="moka">#EFD9D1</color>
+    <color name="drak_red">#D8AC9C</color>
+    <color name="matchaa">#CEE5D0</color>
+    <color name="matcha1">#99A799</color>
+    <color name="matcha2">#ADC2A9</color>
+    <color name="matcha3">#D3E4CD</color>
+
+
+
+</resources>
